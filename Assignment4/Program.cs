@@ -10,7 +10,7 @@ namespace Assignment4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("There is way more I could change, but I don't really want to.... ");
             Console.WriteLine("Press enter to close.");
             Console.ReadLine();
         }
